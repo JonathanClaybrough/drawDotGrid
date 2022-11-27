@@ -6,7 +6,7 @@ This is a Rule deduction game. One player will play the rule of "Nature", they w
 rule which marks some geometric figures as valid, and others as invalid. The other players submit different
 figures trying to understand the pattern, and can submit a rule once they think they found it.
 
-The game is played using squares of 5 by 5 grid of dots, drawing any set of horizontal of vertial lines connecting
+The game is played using squares of 5 by 5 grid of dots, drawing any set of horizontal or vertial lines connecting
 those dots. There are thus 2^40 possible states of the grid of dots. Nature chooses a rule, like "there should be 
 as many vertical or horizontal lines" or "there should be a continous line connecting opposite sides of the board". 
 It is more elegant that it can be calculated quickly, expressed simply, yet has both many positive and negative
